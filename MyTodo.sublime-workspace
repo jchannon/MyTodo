@@ -1,0 +1,854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"products",
+				"productsICanEat"
+			],
+			[
+				"ingredient",
+				"ingredients"
+			],
+			[
+				"F",
+				"Fizz"
+			],
+			[
+				"Fiz",
+				"FizzBuzz"
+			],
+			[
+				"Dos",
+				"DoSomethingElse"
+			],
+			[
+				"Inter",
+				"Interface2"
+			],
+			[
+				"L",
+				"Logger"
+			],
+			[
+				"Lo",
+				"Log"
+			],
+			[
+				"Car",
+				"CarFactory"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"httpcre",
+				"http.createServer(requestListener);"
+			],
+			[
+				"fsre",
+				"fs.readFile(path, encoding_);"
+			],
+			[
+				"creates",
+				"http.createServer(requestListener);"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 2534,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "﻿@Master['MasterPage']\n\n@Section['Content']\n\nA First Level Header\n====================\n\nA Second Level Header\n---------------------\n\nNow is the time for all good men to come to\nthe aid of their country. This is just a\nregular paragraph.\n\nThe quick brown fox jumped over the lazy\ndog's back.\n\n### Header 3\n\n> This is a blockquote.\n> \n> This is the second paragraph in the blockquote.\n>\n> ## This is an H2 in a blockquote\n\n@Model.Name\n\n@EndSection",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Windows",
+				"name": "﻿@Master['MasterPage']"
+			}
+		},
+		{
+			"file": "scripts/todo.js",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Windows",
+				"name": "var TODO = (function(){"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "@Section['Content']\n\n\n\n@EndSection\n\n@Partial['partial'];",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n    <title>Markdown Engine Demo</title>\n</head>\n<body>\n<h1>Markdown Engine Demo</h1>\n<p>This text is in the master page</p>\n</p>\n\n<h1>A First Level Header</h1>\n\n<h2>A Second Level Header</h2>\n\n<p>Now is the time for all good men to come to\nthe aid of their country. This is just a\nregular paragraph.</p>\n\n<p>The quick brown fox jumped over the lazy\ndog's back.</p>\n\n<h3>Header 3</h3>\n\n<blockquote>\n  <p>This is a blockquote.</p>\n  \n  <p>This is the second paragraph in the blockquote.</p>\n  \n  <h2>This is an H2 in a blockquote</h2>\n</blockquote>\n\n<p>fred</p>\n\n<p>\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "NodeF1Build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimegdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/Test/Win8AngularToDo/Win8AngularToDo/Win8AngularToDo/default.html",
+		"/C/Projects/Test/Win8AngularToDo/Win8AngularToDo/Win8AngularToDo/js/controllers/todoCtrl.js",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jonathan/AppData/Local/Temp/2013-01-22.log.txt",
+		"/C/Projects/Test/Windows8JS/Windows8JS/default.html",
+		"/C/Projects/Test/Win8AngularToDo/Win8AngularToDo/Win8AngularToDo/index.html",
+		"/C/Projects/Test/Win8AngularToDo/Win8AngularToDo/Win8AngularToDo/js/New Text Document.txt",
+		"/C/Users/Jonathan/AppData/Local/Temp/2013-01-18.log.txt",
+		"/C/Users/Jonathan/Downloads/angular.min.js",
+		"/C/Projects/Test/todomvc/architecture-examples/angularjs/index.html",
+		"/C/Projects/Test/WebApplication7/WebApplication7/Content/myfile.md",
+		"/C/Projects/Test/Nancy.Markdown/.gitignore",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutApplyingWhatWeHaveLearnt.js",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutHigherOrderFunctions.js",
+		"/C/Projects/Test/javascript-koans-1/lib/underscore-min.js",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutInheritance.js",
+		"/C/Projects/Test/DinnerParty/src/DinnerParty.csproj",
+		"/C/Projects/Test/DinnerParty/src/packages.config",
+		"/C/Users/Jonathan/Desktop/error-2013-01-14150904Z-5b1ca21c-8318-46f2-a02f-77ee90640dd9.xml",
+		"/C/Users/Jonathan/Desktop/error-2013-01-14150111Z-20173021-b8d1-4a31-8e4a-cc4ebecbcebf.xml",
+		"/C/Projects/Test/Nancy.Demo.KnockoutJS/src/Nancy.Demo.KnockoutJS/packages.config",
+		"/C/Users/Jonathan/Desktop/22-08-12 2.0.20/Transponder.exe.config",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutMutability.js",
+		"/C/Projects/Test/Nancy/src/Nancy.ViewEngines.Razor/Nancy.ViewEngines.Razor.csproj",
+		"/C/Projects/Test/Nancy/src/Nancy.ViewEngines.Markdown/Nancy.ViewEngines.Markdown.csproj",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutObjects.js",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutFunctions.js",
+		"/C/Projects/Test/posh-git/profile.example.ps1",
+		"/C/Projects/Test/posh-git/GitUtils.ps1",
+		"/C/Projects/Test/javascript-koans-1/koans/AboutArrays.js",
+		"/C/Projects/Test/posh-git/Utils.ps1",
+		"/C/Projects/Test/Nancy/src/Nancy.Demo.Authentication.Basic/Nancy.Demo.Authentication.Basic.csproj",
+		"/C/Users/Jonathan/.ssh/id_rsa.pub",
+		"/C/Windows/System32/WindowsPowerShell/v1.0/powershell_ise.exe.config",
+		"/C/Users/Jonathan/Desktop/Web.config",
+		"/C/Users/Jonathan/Desktop/patterns.cs.txt",
+		"/C/Users/Jonathan/Desktop/2012-09-26 15.43.08 151.txt",
+		"/C/Users/Jonathan/Downloads/Console-2.00b148-Beta_32bit/Console2/console.xml",
+		"/C/Users/Jonathan/.gitconfig",
+		"/C/Projects/Test/Nancy/e0tf4d43.gfy.txt",
+		"//dev-test/installs/Runme.bat",
+		"/C/Users/Jonathan/Downloads/login_script.html.html",
+		"/C/Projects/Test/Judicium/Judicium/Views/Home/Index.cshtml",
+		"/C/Projects/Test/Judicium/Judicium/Views/Home/Admin.cshtml",
+		"/C/Projects/Test/TBMasterOnline/packages/repositories.config",
+		"/C/Users/Jonathan/Desktop/HomeIndex.cshtml",
+		"/C/Users/Jonathan/Downloads/LICENCES (1).CSV",
+		"/C/Users/Jonathan/Downloads/LICENCES.CSV",
+		"/C/Projects/Test/Nancy/license.txt",
+		"/C/Projects/Test/WebAPI.Testing/src/WebAPI.Testing/WebAPI.Testing.csproj",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/theme-filters.php",
+		"/C/Projects/Test/NodeF1/views/layout.jade",
+		"/C/Projects/Test/NodeF1/views/current/index.jade",
+		"/C/Projects/Test/Nancy/src/Nancy.ViewEngines.Spark/nancy.viewengines.spark.nuspec",
+		"/C/Users/Jonathan/Desktop/test.html",
+		"/C/Projects/Test/Nancy.Demo.KnockoutJS/src/Nancy.Demo.KnockoutJS/Views/Index.cshtml",
+		"/C/Projects/Test/Nancy/jfe1haqx.kv4.txt",
+		"/C/Projects/Test/Nancy/nq2m21t5.uaw.txt",
+		"/C/Projects/Test/WebAPI.Testing/src/WebAPI.Testing/WebAPI.Testing.1.0.0.0.nuspec",
+		"/C/Projects/Test/WebAPI.Testing/WebAPI.Testing.1.0.0.0.nuspec",
+		"/C/Projects/Test/Judicium/Judicium/Views/_Layout.cshtml",
+		"/C/Projects/Test/Nancy.Demo.StatelessAuth/APINancy.csproj",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/feed-rss2.php",
+		"/C/Users/Jonathan/Desktop/en_office_professional_plus_2010_x64_515489/en_office_professional_plus_2010_x64_515489 Key.txt",
+		"/C/Projects/Test/Nancy.Demo.KnockoutJS/README.md",
+		"/C/Projects/Test/Nancy.Demo.Raven/src/Nancy.Demo.Raven/Web.config",
+		"/C/Projects/Test/Nancy.Demo.KnockoutJS/src/Nancy.Demo.KnockoutJS/Nancy.Demo.KnockoutJS.csproj",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/theme-options.php",
+		"/C/Projects/Test/TBMasterOnline/Published/Web.config",
+		"//inspectron-nas/Inspectron/Software/Inspectron Installs/DLR/1.16.00 - 12-08-24 De La Rue Complete/Configuration/PCS Test Scripts/Inspectron Delete Script.sql",
+		"/C/Projects/Test/Nancy.Demo.NoPassword/src/packages/BootstrapTwitter.2.1.0/BootstrapTwitter.2.1.0.nupkg",
+		"/C/Projects/Test/SugarTown/SugarTownDemo/Web.config",
+		"/C/Projects/Test/Nancy.Demo.NoPassword/src/Nancy.Demo.NoPassword/Web.config",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/Web.config",
+		"/C/Users/Jonathan/Downloads/NET Developer Test v3.txt",
+		"/C/Projects/.NET v2.0/Customers/GPO/Applications/Transponder/Plug-ins/GPO.WPC/frmWPC.cs",
+		"/C/Projects/.NET v2.0/Customers/GPO/Applications/Transponder/Plug-ins/GPO.WPC/Database.cs",
+		"/C/Projects/.NET v2.0/Customers/GPO/Applications/Transponder/Plug-ins/GPO.RBPC/Database.cs",
+		"/C/Projects/Test/InspectronAPINancy/InspectronAPINancy.csproj",
+		"/C/Projects/Test/InspectronAPI/APIClient/InspectronAPIClient.csproj",
+		"/C/Users/Jonathan/Downloads/Interview Questions_Points.txt",
+		"//inspectron-nas/Inspectron/Software/Inspectron Installs/Transponder/22-08-12 2.0.20/Release Notes.txt",
+		"/C/Projects/.NET v2.0/Inspectron/R and D/Sentinel V/Sentinel.Reports/Sentinel.Reports.csproj",
+		"//inspectron-nas/Inspectron/Software/Inspectron Installs/GPO/Control Room 2 addons/GPO CR2 Add-ons 1.0.10/Release Note GPO CR2 Add Ons.txt",
+		"//inspectron-nas/Inspectron/Software/Inspectron Installs/GPO/Control Room 2 addons/GPO CR2 Add-ons 1.0.14/Release Note GPO CR2 Add Ons.txt",
+		"/C/Projects/Test/DinnerParty/src/Web.config",
+		"/C/Projects/Test/NodeEMail/app.js",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/theme-functions.php",
+		"/C/Projects/Test/DinnerParty/src/Web.Debug.config",
+		"/C/Projects/Test/DinnerParty/src/Web.Release.config",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/theme-scripts.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/theme-widgets.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/theme-customizer.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/content.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/navigation.php",
+		"/C/Users/Jonathan/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Jonathan/Downloads/Desktop Goodies/Desktop Goodies/Applications/Advanced Task Manager/README.TXT",
+		"/C/Users/Jonathan/Desktop/changepermissions.vbs",
+		"/C/Program Files (x86)/Git/doc/git/html/git-log.html",
+		"/C/Projects/Test/World-Domination.Web.Authentication/Code/WorldDomination.Web.IntegrationTest/ASP.Net MVC/Views/Home/AuthenticateCallback.cshtml.LOCAL.cshtml",
+		"/C/Projects/Test/World-Domination.Web.Authentication/Code/WorldDomination.Web.IntegrationTest/ASP.Net MVC/Views/Home/AuthenticateCallback.cshtml.REMOTE.cshtml",
+		"/C/Projects/Test/World-Domination.Web.Authentication/Code/WorldDomination.Web.IntegrationTest/ASP.Net MVC/Views/Home/AuthenticateCallback.cshtml",
+		"//dev-test/public/jon/changepermissions.bat",
+		"/C/Projects/Test/World-Domination.Web.Authentication/packages/repositories.config",
+		"/C/Projects/Test/World-Domination.Web.Authentication/Code/WorldDomination.Web.Authentication/WorldDomination.Web.Authentication.csproj",
+		"/C/Projects/Test/World-Domination.Web.Authentication/WorldDomination.Web.Authentication.v11.suo",
+		"/C/Projects/Test/NancyAuth/NancyAuth/NancyAuth.csproj",
+		"/C/Projects/Test/world-domination.web.authentication/Code/WorldDomination.Web.IntegrationTest/ASP.Net MVC/WorldDomination.Web.IntegrationTest.MVC.csproj",
+		"/C/Projects/Test/World-Domination.Web.Authentication/Code/WorldDomination.Web.IntegrationTest/ASP.Net MVC/packages.config",
+		"/C/Projects/Test/World-Domination.Web.Authentication/NuGet Package Specifications/World-Domination.Web.Authentication.nupkg",
+		"/C/Users/Jonathan/Desktop/RFIDTest/RFIDTest/RFIDTest/bin/Debug/RFIDSvrConnectDLL.h",
+		"/C/Users/Jonathan/Desktop/rfid multi 3.XML",
+		"/C/Users/Jonathan/Downloads/xunitcontrib-resharper.0.6.1/install.txt",
+		"/C/Projects/.NET v2.0/Customers/DLR/Phase 2/TPlugins/Mühlbauer.Personalisation/Personalisation.cs",
+		"/C/Projects/Test/MVCModelBinderTest/MVCModelBinderTest/Views/Home/Index.cshtml",
+		"/C/Projects/Test/NorthCadburyWebsite/NorthCadburyWebsite/Controllers/ErrorController.cs",
+		"/C/Users/Jonathan/Desktop/Error.aspx",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Projects/Test/NodeF1/NodeF1.sublime-project",
+		"/C/Projects/Test/tbmasteronline/TBMaster.SagePayMvc/packages.config"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"maxValue",
+			"text",
+			"raven",
+			"assembly",
+			"code",
+			"nancy",
+			"\n",
+			"()\n",
+			"null",
+			"_Database",
+			"RFID Client2",
+			"}\n",
+			"2012-09-05",
+			"shiny",
+			"GetConnectionString",
+			"dolocation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RFID Client3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scripts/main.js",
+					"settings":
+					{
+						"buffer_size": 2534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"es5": true,
+								"globalstrict": true,
+								"node": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "﻿@Master['MasterPage']",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/todo.js",
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "var TODO = (function(){",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"es5": true,
+								"globalstrict": true,
+								"node": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"es5": true,
+								"globalstrict": true,
+								"node": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 176.0
+	},
+	"output.git":
+	{
+		"height": 362.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true
+}
